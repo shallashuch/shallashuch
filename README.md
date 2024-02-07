@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shallashuch
-- 👀 I’m interested in web development and neuromarketing applied to it
-- 🌱 I’m currently learning Javascript and Responsive design
+- 👀 I started studying web development in August and I am really enjoing creating small projects
+- 🌱 I’m currently learning React and improving what I've learned
 
 <!---
 shallashuch/shallashuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
