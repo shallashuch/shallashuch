@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shallashuch
-- 👀 I started studying web development in August and I am really enjoing creating small projects
+- 👀 I started studying Web Development in August and I am really enjoing creating small projects
 - 🌱 I’m currently learning React and improving what I've learned
 
 <!---
